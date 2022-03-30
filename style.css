@@ -1,0 +1,29 @@
+.header {
+    font-size: 30px;
+    width: 100% ;
+    margin: 0;
+    font-family: ALGERIAN;
+    color: aquamarine;
+    box-shadow: 6px 6px 16px yellow;
+}
+#status, #conc {
+    font-size: 27px;
+    font-family: ALGERIAN;
+    color: salmon;
+    border-radius: 20px;
+    box-shadow: 6px 6px 20px green;
+ }
+ h3 {
+     width: 30%;
+     font-family: ALGERIAN;
+     color: skyblue;
+     background-color: greenyellow;
+     height: 45px;
+     font-size: 24px;
+     border-radius: 20px;
+     box-shadow: 6px 6px 20px ;
+ }
+ canvas {
+    border: 15px ridge blue;
+    border-radius: 20px;
+}
